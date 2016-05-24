@@ -1,0 +1,4 @@
+#! /bin/sh -
+
+who | wc -l
+printf "for all good men \n"
