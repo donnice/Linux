@@ -1,0 +1,6 @@
+first=isaac middle=bashevis last=singer
+fullname="isaac bashevis singer"
+oldname=$fullname
+fullname="$first $middle $last"
+echo $oldname
+echo $fullname

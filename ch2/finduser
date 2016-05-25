@@ -1,0 +1,4 @@
+#! /bin/sh
+
+# finduser ---
+who | grep $1
