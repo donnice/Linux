@@ -1,0 +1,2 @@
+myvar=this_is_a_long_string_that_means_nothing
+echo $myvar
