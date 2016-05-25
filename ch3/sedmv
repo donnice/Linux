@@ -1,0 +1,1 @@
+sed -e 's/foo/bar/g' -e 's/chicken/cow/g' myfile.xml > myfile2.xml
