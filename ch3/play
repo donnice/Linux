@@ -1,0 +1,2 @@
+echo Tolstoy reads well. Tolstoy writes well.Tolstoy sings well. > example1.txt
+sed 's/Tolstoy/Shujie/g' < example1.txt
