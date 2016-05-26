@@ -1,0 +1,4 @@
+cut -f1 deutsch-english | od -a -b
+# od is the octonary num system, -b means ignore blank, -a means ASCII
+LC_ALL=C sort deutsch-english
+# sort alphabetically

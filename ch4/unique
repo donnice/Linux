@@ -1,0 +1,4 @@
+sort latin-numbers | uniq
+sort latin-numbers | uniq -c #count
+sort latin-numbers | uniq -d #find duplicates only
+sort latin-numbers | uniq - #find un-repeated only
