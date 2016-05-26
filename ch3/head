@@ -1,0 +1,6 @@
+# head --- print first n lines
+#
+# Gramma: head N file
+
+count=$1
+sed ${count}q "$s2"
